@@ -1,5 +1,5 @@
 
-# Hi there, I'm Shivam Kumar Pandey 👋
+# Hi there, I'm Shivam 👋
 
 **SDE Intern | Backend & Frontend Developer | DevOps**
 
